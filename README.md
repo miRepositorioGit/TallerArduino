@@ -10,6 +10,6 @@ Actividad                                     Descripción
 
     1         Configuración de recursos de hardware para la escritura de datos binarios.
     2         Configuración de recursos de hardware para la lectura de datos binarios y analógicos.
-    3         Configuración de recursos, para la monitorizar información a través de las herramientas Monitor serie, Serial Plotter
+    3         Configuración de recursos, para monitorizar información a través de las herramientas Monitor serie, Serial Plotter
     4         Configuración de recursos para la administración de interrupciones externas y temporizadas.
     
