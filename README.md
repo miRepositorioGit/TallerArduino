@@ -1,4 +1,4 @@
-# Taller Arduino. 
+# Taller de Arduino. 
 
 
 Objetivo principal:
@@ -13,8 +13,10 @@ lenguaje C,  pertenecientes a la plataforma Wiring-Arduino, versus el repertorio
 - Crear funciones de configuración de recursos periféricos y bibliotecas en lenguaje C.
 			
 - Crear combinaciones de funciones nativas de la arquitectura AVR y Wiring-Arduino. 
+
+- Crear una isntancia de una Clase.
 			
-- Escribir mediante constantes, macro-instrucciones y funciones datos binarios en puertos.
+- Escribir mediante constantes, macro-instrucciones y funciones de datos binarios en puertos.
 
 - Emplear las herramientas nativas de monitorización y graficación de datos del entorno Arduino IDE.
 			
