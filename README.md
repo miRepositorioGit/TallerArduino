@@ -3,7 +3,9 @@
 
 Objetivo principal:
 
-Al finalizar el curso la y el participante programará estructuras para el control de flujo de datos, entre los recursos periféricos de hardware y memoria de un microcontrolador de 8 bits, codificados en lenguaje C; codificará bibliotecas de funciones para el procesamiento de señales analógicas y digitales con los recursos de una tarjeta Arduino.
+Al finalizar el curso la y el participante programará estructuras para el control de flujo de datos, entre los recursos 
+periféricos de hardware y memoria de un microcontrolador de 8 bits, codificados en lenguaje C; codificará bibliotecas 
+de funciones para el procesamiento de señales analógicas y digitales con los recursos de una tarjeta Arduino.
 
 Objetivos específicos
 
