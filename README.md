@@ -16,7 +16,7 @@ lenguaje C,  pertenecientes a la plataforma Wiring-Arduino, versus el repertorio
 			
 - Crear combinaciones de funciones nativas de la arquitectura AVR y Wiring-Arduino. 
 
-- Crear una isntancia de una Clase.
+- Crear una instancia de una Clase.
 			
 - Escribir mediante constantes, macro-instrucciones y funciones de datos binarios en puertos.
 
